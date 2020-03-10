@@ -4,7 +4,7 @@ def oxford_comma(array)
   end
   case array
     when array == 2
-      puts array.push(1, " and ").join(" ")
+      puts array.push(1, " and "
  
   end
 end
